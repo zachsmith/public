@@ -258,13 +258,14 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 ### Important Articles & Papers
 
 - [Principles - Ray Dalio][34]
+- [Mental Models - Shane Parrish][35]
 
 ### Useful Sources of Information & Ideas
 
-- [Farnam Street Blog][35] - [Shane Parrish][36]
-- [Brain Pickings][37] - [Maria Popova][38] 
-- [Cal Newport][39]
-- [Ribbon Farm][40] - [Venkatesh Rao][41]
+- [Farnam Street Blog][36] - [Shane Parrish][37]
+- [Brain Pickings][38] - [Maria Popova][39] 
+- [Cal Newport][40]
+- [Ribbon Farm][41] - [Venkatesh Rao][42]
 
 [1]:	http://zxmth.us/1NWuWI1
 [2]:	http://zxmth.us/1NWv22g
@@ -300,10 +301,11 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [32]:	http://zxmth.us/1PxYOPq
 [33]:	http://zxmth.us/1PxYPmg
 [34]:	http://zxmth.us/1NWv22g
-[35]:	http://zxmth.us/farnamstreetblog
-[36]:	https://www.farnamstreetblog.com/about/
-[37]:	http://zxmth.us/1R0KbFG
-[38]:	https://www.brainpickings.org/about/
-[39]:	http://zxmth.us/1R0Kf8c
-[40]:	http://zxmth.us/1R0KgJz
-[41]:	http://www.ribbonfarm.com/about/
+[35]:	http://zxmth.us/1OmSJEG
+[36]:	http://zxmth.us/farnamstreetblog
+[37]:	https://www.farnamstreetblog.com/about/
+[38]:	http://zxmth.us/1R0KbFG
+[39]:	https://www.brainpickings.org/about/
+[40]:	http://zxmth.us/1R0Kf8c
+[41]:	http://zxmth.us/1R0KgJz
+[42]:	http://www.ribbonfarm.com/about/

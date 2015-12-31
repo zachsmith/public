@@ -1,5 +1,5 @@
 
-# What Zachary is doing now?
+# What is Zachary doing now?
 
 Here is what I’m doing now:
 

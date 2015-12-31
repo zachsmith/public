@@ -7,6 +7,9 @@
 - On the Portfolio Grant Committee for [Social Venture Partners][4]
 - Co-hosting the [Seattle Design Thinking & Innovation Collective][5]
 - Organizing the [Farnam Street Readers][6] group in Seattle
+- [Reading as much as I can][7]
+- Trying to write more
+- Considering my next move
 
 [1]:	http://zxmth.us/1PzqBgr
 [2]:	http://zxmth.us/1Pzqi5c
@@ -14,3 +17,4 @@
 [4]:	http://zxmth.us/1PzqmC8
 [5]:	http://zxmth.us/1PzqtNZ
 [6]:	http://zxmth.us/1Pzqstq
+[7]:	http://zxmth.us/1R0DeV4

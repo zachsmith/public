@@ -1,8 +1,6 @@
 
 # What is Zachary doing now?
 
-Here is what I’m doing now:
-
 - Living in [Seattle, WA][1] with Alex & Tuesday
 - Spending time working on my own projects at [The Could Room][2] in Seattle.
 - On the board of [AIGA Seattle][3]

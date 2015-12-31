@@ -10,6 +10,7 @@
 - [Reading as much as I can][7]
 - Trying to write more
 - Considering my next move
+- Sporting a beard for the winter months
 
 [1]:	http://zxmth.us/1PzqBgr
 [2]:	http://zxmth.us/1Pzqi5c

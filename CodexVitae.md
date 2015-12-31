@@ -218,7 +218,7 @@ The most generous assumption you can make about another person’s intentions. L
 
 ### Mental Models
 
-Structures and patterns that we construct in our minds to make sense of the world and our interactions with and within it. The higher my ability to leverage multiple, sometimes conflicting models, the higher my likelihood of achieving favorable outcomes. I was introduced the the concept of Mental Models by [Charlie Munger][17] by way of [Shane Parish][18].
+Structures and patterns that we construct in our minds to make sense of the world and our interactions with and within it. The higher my ability to leverage multiple, sometimes conflicting models, the higher my likelihood of achieving favorable outcomes. I was introduced the the concept of Mental Models by [Charlie Munger][17] by way of [Shane Parrish][18].
 
 ### MITs
 
@@ -236,27 +236,35 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 ## Lists
 
 - [Reading List][21] : a list of books and papers I've read
+- [My Instapaper Profile][22] : things I’ve ‘liked’ on Instapaper
 
 ---- 
 ## References
 
 ### Important Books
 
-- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][22]
-- [Harold and the Purple Crayon - Crockett Johnson][23]
-- [Pebbles of Perception - Laurence Endersen][24]
-- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][25]
-- [Thinking, Fast and Slow - Daniel Kahneman][26]
-- [Between the world and me - Ta-Nehisi Coates][27]
-- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][28]
-- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][29]
-- [The Catcher in the Rye - J.D. Salinger][30]
-- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][31]
-- [The Laws of Simplicity - John Maeda][32]
+- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][23]
+- [Harold and the Purple Crayon - Crockett Johnson][24]
+- [Pebbles of Perception - Laurence Endersen][25]
+- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][26]
+- [Thinking, Fast and Slow - Daniel Kahneman][27]
+- [Between the world and me - Ta-Nehisi Coates][28]
+- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][29]
+- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][30]
+- [The Catcher in the Rye - J.D. Salinger][31]
+- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][32]
+- [The Laws of Simplicity - John Maeda][33]
 
 ### Important Articles & Papers
 
-- [Principles - Ray Dalio][33]
+- [Principles - Ray Dalio][34]
+
+### Useful Sources of Information & Ideas
+
+- [Farnam Street Blog][35] - [Shane Parrish][36]
+- [Brain Pickings][37] - [Maria Popova][38] 
+- [Cal Newport][39]
+- [Ribbon Farm][40] - [Venkatesh Rao][41]
 
 [1]:	http://zxmth.us/1NWuWI1
 [2]:	http://zxmth.us/1NWv22g
@@ -279,15 +287,23 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [19]:	http://zxmth.us/1PxYcJF
 [20]:	http://zxmth.us/1PxYb8B
 [21]:	http://zxmth.us/1R0DeV4
-[22]:	http://zxmth.us/1PxXUT2
-[23]:	http://zxmth.us/1PxYRL6
-[24]:	http://zxmth.us/1PxYBvs
-[25]:	http://zxmth.us/1PxYJv6
-[26]:	http://zxmth.us/1PxYMa9
-[27]:	http://zxmth.us/1PxYVua
-[28]:	http://zxmth.us/1PxYPCW
-[29]:	http://zxmth.us/1PxYQa6
-[30]:	http://zxmth.us/1PxYSPa
-[31]:	http://zxmth.us/1PxYOPq
-[32]:	http://zxmth.us/1PxYPmg
-[33]:	http://zxmth.us/1NWv22g
+[22]:	https://www.instapaper.com/p/zaxmyth
+[23]:	http://zxmth.us/1PxXUT2
+[24]:	http://zxmth.us/1PxYRL6
+[25]:	http://zxmth.us/1PxYBvs
+[26]:	http://zxmth.us/1PxYJv6
+[27]:	http://zxmth.us/1PxYMa9
+[28]:	http://zxmth.us/1PxYVua
+[29]:	http://zxmth.us/1PxYPCW
+[30]:	http://zxmth.us/1PxYQa6
+[31]:	http://zxmth.us/1PxYSPa
+[32]:	http://zxmth.us/1PxYOPq
+[33]:	http://zxmth.us/1PxYPmg
+[34]:	http://zxmth.us/1NWv22g
+[35]:	http://zxmth.us/farnamstreetblog
+[36]:	https://www.farnamstreetblog.com/about/
+[37]:	http://zxmth.us/1R0KbFG
+[38]:	https://www.brainpickings.org/about/
+[39]:	http://zxmth.us/1R0Kf8c
+[40]:	http://zxmth.us/1R0KgJz
+[41]:	http://www.ribbonfarm.com/about/

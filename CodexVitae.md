@@ -102,55 +102,78 @@ I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [
 ---- 
 ## Beliefs
 
-- **On Biases**
+### On Biases
+
 1. I suffer from many biases
 2. You suffer from many biases
 3. 1 and 2 cannot be avoided but awareness can sometimes be helpful in combating the effects on myself and others
 4. I should use my awareness of biases to be more forgiving of myself and others
-- **On Knowledge**
+
+### On Knowledge
+
 1. Is the transmogrification of new ideas, information, and experiences
 2. Is something you build over time - intentionally and/or passively
 3. It takes work to acquire intentionally and that work is worth doing
-- **On Wisdom**
+
+### On Wisdom
+
 1. Is Knowledge + Experience + Good Judgement
 2. Is not dependent on age
 3. Requires making countless mistakes to attain
 4. Is worth seeking
-- **On History**
+
+### On History
+
 1. Has more than one side
 2. I must consider the voice, perspective, intentions, incentives, and motivations of the teller
 3. Does not simply _"repeat itself"_
-- **On God**
+
+### On God
+
 1. Does not exist
-- **On Religion**
+
+### On Religion
+
 1. Is about answers
 2. Discourages thinking for myself
 3. Is responsible for much pain, suffering, and ignorance in the world
 4. Is responsible for much joy, creativity, and brilliance in the world
 5. Is not a legitimate excuse for conflict
-- **On Spirituality**
+
+### On Spirituality
+
 1. Is about questions
 2. Is about thinking and seeking for myself
 3. Is not dogmatic
-- **On Willpower**
+
+### On Willpower
+
 1. Is in limited supply and…
 2. Should be treated like a valuable resource and…
 3. Can be improved over time with deliberate practice
-- **On Focus**
+
+### On Focus
+
 1. Is a skill required to excel and...
 2. Requires discipline to achieve
 3. To focus on everything is to focus on nothing
-- **On Questioning**
+
+### On Questioning
+
 1. Is the tool of the curious mind
 2. Is critical for developing knowledge
 3. Is a skill that can and should be intentionally improved
-- **On Learning & Education**
+
+### On Learning & Education
+
 1. Are not mutually exclusive
 2. Education is something done to me
 3. Learning is something you do to myself
 4. People learn in different ways; I must find mine
 5. It is my responsibility to be curious, to learn, and to apply that learning to my life
-- **On Privilege**
+
+### On Privilege
+
 1. Is sometimes a more important reason for opportunities I receive than is skill or merit and...
 2. I must be honest with myself and reflect on how privilege impacts my life
 3. It is irresponsible not to use any privileges I have to help others

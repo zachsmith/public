@@ -30,6 +30,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts][
 - Write a month-end report _(it need not be long!)_
 - Review and revise this document
 - Review the _Disconfirming Questions_
+- Review and update [/now][8]
 
 ### Yearly
 
@@ -97,7 +98,7 @@ Being mindful and intentional about movement is important to my physical and men
 
 By choosing to adhere to a vegetarian diet I believe I am more likely to make healthier eating decisions which are also less harmful to the environment. I do not believe that vegetarianism is always more healthy or more environmentally friendly but I do believe that my _odds_ of making better choices increase by limiting myself to a plant based diet. Human bodies and environmental ecosystems are complex systems and it is impossible for any one person to know what is _“right”_ vs. what is _“wrong”_ in all ways. I don’t judge those who make different choices but this choice works well for me.
 
-I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer][8] and became motivated to change her diet. To be supportive of her decision, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
+I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer][9] and became motivated to change her diet. To be supportive of her decision, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
 
 ---- 
 ## Beliefs
@@ -183,17 +184,17 @@ I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [
 
 ### Codex Vitae
 
-_(copied verbatim from [Buster Benson’s 2014 Codex Vitae][9])_
+_(copied verbatim from [Buster Benson’s 2014 Codex Vitae][10])_
 
 > This is an idea coined by Robin Sloan in his book Mr Penumbra's 24-Hour Bookstore. The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains onto our credit cards and that would more directly represent our full body of knowledge from life.
 
 ### Keystones
 
-Keystones are the habits, routines, and actions that have a cascading effect on positive behavior. Keystones are not the same for all people and it’s important that each person identify their own. I was introduced to the idea after reading [Charles Duhigg’s, The Power of Habit: Why we do what we do in life and business][10].
+Keystones are the habits, routines, and actions that have a cascading effect on positive behavior. Keystones are not the same for all people and it’s important that each person identify their own. I was introduced to the idea after reading [Charles Duhigg’s, The Power of Habit: Why we do what we do in life and business][11].
 
 ### Convenient Constraints
 
-A form of _Personal_ [Choice Architecture][11], Convenient Constraints are restrictions that create a new default state which increases the likelihood that you’ll make better decisions. Ideally these constraints do not require a high amount of willpower and should not be difficult to adhere to. I was introduced to the idea of Choice Architecture in [The Willpower Instinct: How self-control works, why it matters, and What you can do to get more of it by Kelly McGonigal, PH.D.][12].
+A form of _Personal_ [Choice Architecture][12], Convenient Constraints are restrictions that create a new default state which increases the likelihood that you’ll make better decisions. Ideally these constraints do not require a high amount of willpower and should not be difficult to adhere to. I was introduced to the idea of Choice Architecture in [The Willpower Instinct: How self-control works, why it matters, and What you can do to get more of it by Kelly McGonigal, PH.D.][13].
 
 ### Noble Questions
 
@@ -205,19 +206,19 @@ Specific attributes or qualities that I hope other people would use to describe 
 
 ### Common Book
 
-Common Book is the misremembered name I gave to the idea of at the _Commonplace Book_ (but I like my shorter name better.) A Common Book is composed of information, ideas, quotes and other forms of knowledge you acquire throughout my life. I was introduced to the concept in [Where Good Ideas Come From by Steven Johnson][13].
+Common Book is the misremembered name I gave to the idea of at the _Commonplace Book_ (but I like my shorter name better.) A Common Book is composed of information, ideas, quotes and other forms of knowledge you acquire throughout my life. I was introduced to the concept in [Where Good Ideas Come From by Steven Johnson][14].
 
 ### Adjacent Possible
 
-A future that exists just ahead of us at the edge of present reality where the ideas and concepts of today are reinvented, recombined, and reimagined with the new ideas of tomorrow. I was introduced to the concept in [Where Good Ideas Come From by Steven Johnson][14].
+A future that exists just ahead of us at the edge of present reality where the ideas and concepts of today are reinvented, recombined, and reimagined with the new ideas of tomorrow. I was introduced to the concept in [Where Good Ideas Come From by Steven Johnson][15].
 
 ### Hypothesis of Generosity
 
-The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown][15].
+The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown][16].
 
 ### Mental Models
 
-Structures and patterns that we construct in our minds to make sense of the world and our interactions with and within it. The higher my ability to leverage multiple, sometimes conflicting models, the higher my likelihood of achieving favorable outcomes. I was introduced the the concept of Mental Models by [Charlie Munger][16] by way of [Shane Parish][17].
+Structures and patterns that we construct in our minds to make sense of the world and our interactions with and within it. The higher my ability to leverage multiple, sometimes conflicting models, the higher my likelihood of achieving favorable outcomes. I was introduced the the concept of Mental Models by [Charlie Munger][17] by way of [Shane Parish][18].
 
 ### MITs
 
@@ -225,37 +226,37 @@ _**M**ost **I**mportant **T**ask**s**_. These are the things I feel are the most
 
 ### Disconfirming Questions
 
-Questions meant to challenge my assumptions and beliefs. I was introduced to the concept in [Decisive: How to Make Better Choices in Life and Work by Chip Heath & Dan Heath][18]
+Questions meant to challenge my assumptions and beliefs. I was introduced to the concept in [Decisive: How to Make Better Choices in Life and Work by Chip Heath & Dan Heath][19]
 
 ### Appreciative Inquiry
 
-Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, you leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger][19]
+Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, you leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger][20]
 
 ---- 
 ## Lists
 
-- [Reading List][20] : a list of books and papers I've read
+- [Reading List][21] : a list of books and papers I've read
 
 ---- 
 ## References
 
 ### Important Books
 
-- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][21]
-- [Harold and the Purple Crayon - Crockett Johnson][22]
-- [Pebbles of Perception - Laurence Endersen][23]
-- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][24]
-- [Thinking, Fast and Slow - Daniel Kahneman][25]
-- [Between the world and me - Ta-Nehisi Coates][26]
-- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][27]
-- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][28]
-- [The Catcher in the Rye - J.D. Salinger][29]
-- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][30]
-- [The Laws of Simplicity - John Maeda][31]
+- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][22]
+- [Harold and the Purple Crayon - Crockett Johnson][23]
+- [Pebbles of Perception - Laurence Endersen][24]
+- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][25]
+- [Thinking, Fast and Slow - Daniel Kahneman][26]
+- [Between the world and me - Ta-Nehisi Coates][27]
+- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][28]
+- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][29]
+- [The Catcher in the Rye - J.D. Salinger][30]
+- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][31]
+- [The Laws of Simplicity - John Maeda][32]
 
 ### Important Articles & Papers
 
-- [Principles - Ray Dalio][32]
+- [Principles - Ray Dalio][33]
 
 [1]:	http://zxmth.us/1NWuWI1
 [2]:	http://zxmth.us/1NWv22g
@@ -264,28 +265,29 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [5]:	#glossary--key-concepts
 [6]:	mailto:codex@zaxmyth.me?subject=codex
 [7]:	http://zxmth.us/codexvitae
-[8]:	http://zxmth.us/1PxXP1J
-[9]:	http://zxmth.us/1PxXSKZ
-[10]:	http://zxmth.us/1PxXUT2
-[11]:	http://zxmth.us/1PxXXhL
-[12]:	http://zxmth.us/1PxXY58
-[13]:	http://zxmth.us/1PxY0db
+[8]:	http://zxmth.us/1PzDJlV
+[9]:	http://zxmth.us/1PxXP1J
+[10]:	http://zxmth.us/1PxXSKZ
+[11]:	http://zxmth.us/1PxXUT2
+[12]:	http://zxmth.us/1PxXXhL
+[13]:	http://zxmth.us/1PxXY58
 [14]:	http://zxmth.us/1PxY0db
-[15]:	http://zxmth.us/1PxY2BU
-[16]:	http://zxmth.us/1PxY3pF
-[17]:	http://zxmth.us/1OmSJEG
-[18]:	http://zxmth.us/1PxYcJF
-[19]:	http://zxmth.us/1PxYb8B
-[20]:	http://zxmth.us/1R0DeV4
-[21]:	http://zxmth.us/1PxXUT2
-[22]:	http://zxmth.us/1PxYRL6
-[23]:	http://zxmth.us/1PxYBvs
-[24]:	http://zxmth.us/1PxYJv6
-[25]:	http://zxmth.us/1PxYMa9
-[26]:	http://zxmth.us/1PxYVua
-[27]:	http://zxmth.us/1PxYPCW
-[28]:	http://zxmth.us/1PxYQa6
-[29]:	http://zxmth.us/1PxYSPa
-[30]:	http://zxmth.us/1PxYOPq
-[31]:	http://zxmth.us/1PxYPmg
-[32]:	http://zxmth.us/1NWv22g
+[15]:	http://zxmth.us/1PxY0db
+[16]:	http://zxmth.us/1PxY2BU
+[17]:	http://zxmth.us/1PxY3pF
+[18]:	http://zxmth.us/1OmSJEG
+[19]:	http://zxmth.us/1PxYcJF
+[20]:	http://zxmth.us/1PxYb8B
+[21]:	http://zxmth.us/1R0DeV4
+[22]:	http://zxmth.us/1PxXUT2
+[23]:	http://zxmth.us/1PxYRL6
+[24]:	http://zxmth.us/1PxYBvs
+[25]:	http://zxmth.us/1PxYJv6
+[26]:	http://zxmth.us/1PxYMa9
+[27]:	http://zxmth.us/1PxYVua
+[28]:	http://zxmth.us/1PxYPCW
+[29]:	http://zxmth.us/1PxYQa6
+[30]:	http://zxmth.us/1PxYSPa
+[31]:	http://zxmth.us/1PxYOPq
+[32]:	http://zxmth.us/1PxYPmg
+[33]:	http://zxmth.us/1NWv22g

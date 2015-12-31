@@ -23,4 +23,4 @@ There is where I attempt to keep a record of me and my thoughts about the world.
 [2]:	https://github.com/zachsmith/public/blob/master/CodexVitae.md
 [3]:	https://github.com/zachsmith/public/blob/master/ReadingList.md
 [4]:	https://github.com/zachsmith/public/blob/master/now.md
-[5]:	mailto:public@zaxmyth.me
+[5]:	mailto:public@zaxmyth.me?subject=/public

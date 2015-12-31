@@ -239,7 +239,7 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [3]:	http://zxmth.us/1PxYBvs
 [4]:	http://zxmth.us/1NWv766
 [5]:	#glossary--key-concepts
-[6]:	mailto:codex@zaxmyth.me
+[6]:	mailto:codex@zaxmyth.me?subject=codex
 [7]:	https://github.com/zachsmith/public/commits/master/CodexVitae.md
 [8]:	http://zxmth.us/1PxXP1J
 [9]:	http://zxmth.us/1PxXSKZ

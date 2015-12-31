@@ -253,7 +253,7 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [17]:	http://zxmth.us/1OmSJEG
 [18]:	http://zxmth.us/1PxYcJF
 [19]:	http://zxmth.us/1PxYb8B
-[20]:	/zachsmith/public/blob/master/ReadingList.md
+[20]:	https://github.com/zachsmith/public/blob/master/ReadingList.md
 [21]:	http://zxmth.us/1PxXUT2
 [22]:	http://zxmth.us/1PxYRL6
 [23]:	http://zxmth.us/1PxYBvs

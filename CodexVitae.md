@@ -34,8 +34,8 @@ If this is your first time here, consider reading the [Glossary & Key Concepts][
 
 ### Yearly
 
- - Review month-end reports for the year
- - Write a year-end report
+- Review month-end reports for the year
+- Write a year-end report
 - Review prior year-end reports
 
 ---- 

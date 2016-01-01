@@ -1,6 +1,6 @@
 # Zachary Smith’s /public Self
 
-There is where I attempt to keep a record of me and my thoughts about the world. The idea for creating my own `/public` came from Buster Benson who created a [/public][1] and a Codex Vitae. Thanks, Buster!
+This is where I attempt to keep a record of me and my thoughts about the world. The idea for creating my own `/public` came from Buster Benson who created a [/public][1] and a Codex Vitae. Thanks, Buster!
 
 ## The Codex
 

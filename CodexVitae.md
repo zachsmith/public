@@ -237,35 +237,36 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 
 - [Reading List][21] : a list of books and papers I've read
 - [My Instapaper Profile][22] : things I’ve ‘liked’ on Instapaper
+- [Quotes][23] : quotes worth remembering
 
 ---- 
 ## References
 
 ### Important Books
 
-- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][23]
-- [Harold and the Purple Crayon - Crockett Johnson][24]
-- [Pebbles of Perception - Laurence Endersen][25]
-- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][26]
-- [Thinking, Fast and Slow - Daniel Kahneman][27]
-- [Between the world and me - Ta-Nehisi Coates][28]
-- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][29]
-- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][30]
-- [The Catcher in the Rye - J.D. Salinger][31]
-- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][32]
-- [The Laws of Simplicity - John Maeda][33]
+- [The Power of Habit: Why we do what we do in life and business - Charles Duhigg][24]
+- [Harold and the Purple Crayon - Crockett Johnson][25]
+- [Pebbles of Perception - Laurence Endersen][26]
+- [Influence: The Psychology of Persuasion - Robert B. Cialdini, PH.D][27]
+- [Thinking, Fast and Slow - Daniel Kahneman][28]
+- [Between the world and me - Ta-Nehisi Coates][29]
+- [Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao][30]
+- [Zero to One : Notes on Startups, or How to Build the Future - Peter Thiel][31]
+- [The Catcher in the Rye - J.D. Salinger][32]
+- [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler][33]
+- [The Laws of Simplicity - John Maeda][34]
 
 ### Important Articles & Papers
 
-- [Principles - Ray Dalio][34]
-- [Mental Models - Shane Parrish][35]
+- [Principles - Ray Dalio][35]
+- [Mental Models - Shane Parrish][36]
 
 ### Useful Sources of Information & Ideas
 
-- [Farnam Street Blog][36] - [Shane Parrish][37]
-- [Brain Pickings][38] - [Maria Popova][39] 
-- [Cal Newport][40]
-- [Ribbon Farm][41] - [Venkatesh Rao][42]
+- [Farnam Street Blog][37] - [Shane Parrish][38]
+- [Brain Pickings][39] - [Maria Popova][40] 
+- [Cal Newport][41]
+- [Ribbon Farm][42] - [Venkatesh Rao][43]
 
 [1]:	http://zxmth.us/1NWuWI1
 [2]:	http://zxmth.us/1NWv22g
@@ -287,25 +288,26 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 [18]:	http://zxmth.us/1OmSJEG
 [19]:	http://zxmth.us/1PxYcJF
 [20]:	http://zxmth.us/1PxYb8B
-[21]:	http://zxmth.us/1R0DeV4
+[21]:	http://zxmth.us/1UoENKg
 [22]:	https://www.instapaper.com/p/zaxmyth
-[23]:	http://zxmth.us/1PxXUT2
-[24]:	http://zxmth.us/1PxYRL6
-[25]:	http://zxmth.us/1PxYBvs
-[26]:	http://zxmth.us/1PxYJv6
-[27]:	http://zxmth.us/1PxYMa9
-[28]:	http://zxmth.us/1PxYVua
-[29]:	http://zxmth.us/1PxYPCW
-[30]:	http://zxmth.us/1PxYQa6
-[31]:	http://zxmth.us/1PxYSPa
-[32]:	http://zxmth.us/1PxYOPq
-[33]:	http://zxmth.us/1PxYPmg
-[34]:	http://zxmth.us/1NWv22g
-[35]:	http://zxmth.us/1OmSJEG
-[36]:	http://zxmth.us/farnamstreetblog
-[37]:	https://www.farnamstreetblog.com/about/
-[38]:	http://zxmth.us/1R0KbFG
-[39]:	https://www.brainpickings.org/about/
-[40]:	http://zxmth.us/1R0Kf8c
-[41]:	http://zxmth.us/1R0KgJz
-[42]:	http://www.ribbonfarm.com/about/
+[23]:	http://zxmth.us/1UoENKg
+[24]:	http://zxmth.us/1PxXUT2
+[25]:	http://zxmth.us/1PxYRL6
+[26]:	http://zxmth.us/1PxYBvs
+[27]:	http://zxmth.us/1PxYJv6
+[28]:	http://zxmth.us/1PxYMa9
+[29]:	http://zxmth.us/1PxYVua
+[30]:	http://zxmth.us/1PxYPCW
+[31]:	http://zxmth.us/1PxYQa6
+[32]:	http://zxmth.us/1PxYSPa
+[33]:	http://zxmth.us/1PxYOPq
+[34]:	http://zxmth.us/1PxYPmg
+[35]:	http://zxmth.us/1NWv22g
+[36]:	http://zxmth.us/1OmSJEG
+[37]:	http://zxmth.us/farnamstreetblog
+[38]:	https://www.farnamstreetblog.com/about/
+[39]:	http://zxmth.us/1R0KbFG
+[40]:	https://www.brainpickings.org/about/
+[41]:	http://zxmth.us/1R0Kf8c
+[42]:	http://zxmth.us/1R0KgJz
+[43]:	http://www.ribbonfarm.com/about/

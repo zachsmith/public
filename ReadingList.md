@@ -51,7 +51,7 @@
 
 ### September
 
-* [Well-Designed: How to Use Empathy to Create Products People Love - Jon Kolko](http://amzn.to/1O5UJQO)
+* **[Well-Designed: How to Use Empathy to Create Products People Love - Jon Kolko](http://amzn.to/1O5UJQO)**
 * [Creative Confidence: Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley](http://amzn.to/1KU1iBI)
 
 ### August

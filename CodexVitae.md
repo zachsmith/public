@@ -23,7 +23,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 - Review my completed _MITs_ for the week
 - Review my notes and capture any necessary actions
 - Review new entries in my _Common Book_ 
-- Review my _Nobel Questions_
+- Review my _Noble Questions_
 
 ### Monthly
 

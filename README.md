@@ -4,7 +4,7 @@ This is where I attempt to keep a record of me and my thoughts about the world. 
 
 ## The Codex
 
-[My Codex Vitae _(Book of Life)_](http://zxmth.us/codexvitae)
+[My Codex Vitae _(Book of Life)_](http://zxmth.us/ZaxCodex)
 
 ## The Lists
 

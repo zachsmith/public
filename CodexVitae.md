@@ -169,7 +169,7 @@ I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [
 
 1. Are not mutually exclusive
 2. Education is something done to me
-3. Learning is something you do to myself
+3. Learning is something I do to myself
 4. People learn in different ways; I must find mine
 5. It is my responsibility to be curious, to learn, and to apply that learning to my life
 

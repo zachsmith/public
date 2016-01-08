@@ -235,7 +235,7 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 ---- 
 ## Lists
 
-- [Reading List](http://zxmth.us/1UoENKg) : a list of books and papers I've read
+- [Reading List](http://zxmth.us/ZaxReadingList) : a list of books and papers I've read
 - [My Instapaper Profile](https://www.instapaper.com/p/zaxmyth) : things I’ve ‘liked’ on Instapaper
 - [Quotes](http://zxmth.us/1UoENKg) : quotes worth remembering
 

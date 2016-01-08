@@ -4,17 +4,17 @@ This is where I attempt to keep a record of me and my thoughts about the world. 
 
 ## The Codex
 
-[My Codex Vitae _(Book of Life)_](https://github.com/zachsmith/public/blob/master/CodexVitae.md)
+[My Codex Vitae _(Book of Life)_](http://zxmth.us/codexvitae)
 
 ## The Lists
 
-- [Books & papers I’ve read](https://github.com/zachsmith/public/blob/master/ReadingList.md)
+- [Books & papers I’ve read](http://zxmth.us/ZaxReadingList)
 - [Instapaper](http://zxmth.us/1R0LNiO)
 - [Quotes](http://zxmth.us/1UoENKg)
 
 ## /now
 
-[What am I doing now?](https://github.com/zachsmith/public/blob/master/now.md)
+[What am I doing now?](http://zxmth.us/zax_now)
 
 ## Where else can you find me?
 

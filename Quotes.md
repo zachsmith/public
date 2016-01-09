@@ -25,7 +25,7 @@
 
 ----
 
-> ""Education is something that is done to you. Learning is something you do to
+> "Education is something that is done to you. Learning is something you do to
 > yourself." - **Joi Ito** [Want to innovate? Become a "now-ist" TED Talk](http://zxmth.us/1JA6Mq4)
 
 ----

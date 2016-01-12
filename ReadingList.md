@@ -8,6 +8,7 @@
 ---- 
 ### January
 
+* [Meditations - Marcus Aurelius](http://zxmth.us/1ZYHQwt)
 * [Do No Harm: Stories of Life, Death, and Brain Surgery - Henry Marsh _(audio)_](http://zxmth.us/1VXwg2q)
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for
   Work You Love - Cal Newport](http://zxmth.us/1JA5UBH)

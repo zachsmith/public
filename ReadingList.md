@@ -8,6 +8,7 @@
 ---- 
 ### January
 
+* **[Notes on the Synthesis of Form - Christopher Alexander](http://zxmth.us/1JN1UOz)**
 * [Meditations - Marcus Aurelius](http://zxmth.us/1ZYHQwt)
 * [Do No Harm: Stories of Life, Death, and Brain Surgery - Henry Marsh _(audio)_](http://zxmth.us/1VXwg2q)
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for

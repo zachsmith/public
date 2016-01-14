@@ -1,7 +1,12 @@
 
 # Zachary’s Reading List
 
-> In 2015 I began to keep track of books & papers I've read. This list is in reverse chronological order. Items in **bold** are recommended and are likely books I'll revisit and/or read again someday. I sometimes listen to audio books which are marked with _(audio)_. I tend to listen to them while I walk and drive around and use them as a form of [Inspectional Reading](http://cw.gp/1JjbJhy).
+> In 2015 I began to keep track of books & papers I've read. This list is in
+> reverse chronological order. Items in **bold** are recommended and are likely
+> books I'll revisit and/or read again someday. I sometimes listen to audio
+> books which are marked with _(audio)_. I tend to listen to them while I walk
+> and drive around and use them as a form of [Inspectional
+> Reading](http://cw.gp/1JjbJhy).
 
 # 2016
 

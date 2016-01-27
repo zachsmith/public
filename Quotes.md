@@ -32,3 +32,8 @@
 > **Joi Ito, [Want to innovate? Become a "now-ist" TED Talk](http://zxmth.us/1JA6Mq4)**
 
 ----
+
+> "It's easier to act your way into a new way of thinking than to think your
+> way into a new way of acting." - **Millard Fuller, [Millard Fuller: A Home For Everyone](http://zxmth.us/1KaxK7Y)**
+
+----

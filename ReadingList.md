@@ -13,6 +13,7 @@
 ---- 
 ### January
 
+* [Plato at the Googleplex: Why Philosophy Won't Go Away - Rebecca Goldstein _(audio)_](http://zxmth.us/1WQoJTz)
 * [Heidegger in 90 Minutes - Paul Strathern](http://zxmth.us/1WQozeZ)
 * **[Notes on the Synthesis of Form - Christopher Alexander](http://zxmth.us/1JN1UOz)**
 * [Meditations - Marcus Aurelius](http://zxmth.us/1ZYHQwt)

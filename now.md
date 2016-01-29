@@ -10,4 +10,4 @@
 - [Reading as much as I can](http://zxmth.us/1R0DeV4)
 - Trying to write more
 - Considering my next move
-- Sporting a beard for the winter months
+- Sporting a beard and a handlebar mustache for the winter months

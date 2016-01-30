@@ -13,6 +13,7 @@
 ---- 
 ### January
 
+* [Deep Work: Rules for Focused Success in a Distracted World - Cal Newport](http://zxmth.us/1KNNrwU)
 * [Plato at the Googleplex: Why Philosophy Won't Go Away - Rebecca Goldstein _(audio)_](http://zxmth.us/1WQoJTz)
 * [Heidegger in 90 Minutes - Paul Strathern](http://zxmth.us/1WQozeZ)
 * **[Notes on the Synthesis of Form - Christopher Alexander](http://zxmth.us/1JN1UOz)**

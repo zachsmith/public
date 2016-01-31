@@ -11,3 +11,9 @@
 - Trying to write more
 - Starting a new company and considering my next moves
 - Sporting a beard and a handlebar mustache for the winter months
+
+----
+
+**Monthly Reports:**
+
+- [January, 2016](http://zxmth.us/1nx7QB5)

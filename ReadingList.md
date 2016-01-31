@@ -10,6 +10,7 @@
 
 # 2016
 
+<a id="january2016">
 ---- 
 ### January
 
@@ -27,6 +28,7 @@
 
 # 2015
 
+<a id="december2015">
 ---- 
 ### December
 
@@ -42,6 +44,7 @@
 * **[The Opposable Mind: How Successful Leaders Win Through Integrative Thinking - Roger Martin](http://cw.gp/1Q761a2)**
 * [Rising Strong - Brené Brown _(audio)_](http://cw.gp/1SvKANI)
 
+<a id="november2015">
 ### November
 
 * [The Hedgehog and the Fox: An Essay on Tolstoy's View of History _(Second edition)_ - Isaiah Berlin](http://cw.gp/1StjIOd)
@@ -53,6 +56,7 @@
 * [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi _(audio)_](http://amzn.to/1kp1GkW)
 * **[Seeking Wisdom: From Darwin to Munger, 3rd Edition - Peter Bevelin](http://amzn.to/1Mvlppy)**
 
+<a id="october2015">
 ### October
 
 * **[Where Good Ideas Come From : The Natural History of Innovation - Steven Johnson _(audio)_](http://amzn.to/1MNfPzi)**
@@ -62,11 +66,13 @@
 
 ---- 
 
+<a id="september2015">
 ### September
 
 * **[Well-Designed: How to Use Empathy to Create Products People Love - Jon Kolko](http://amzn.to/1O5UJQO)**
 * [Creative Confidence: Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley](http://amzn.to/1KU1iBI)
 
+<a id="august2015">
 ### August
 
 * [The Old Man and The Sea : Ernest Hemingway](http://amzn.to/1K8Z1ra)
@@ -74,6 +80,7 @@
 * [Brief Interviews with Hideous Men : David Foster Wallace](http://amzn.to/1KXixno)
 * [Lanterne Rouge: The Last Man in the Tour de France - Max Leonard](http://amzn.to/1OZpV2t)
 
+<a id="july2015">
 ### July
 
 * [Zen in the Art of Writing : Ray Bradbury](http://amzn.to/1OZpV2t)
@@ -82,10 +89,12 @@
 
 ---- 
 
+<a id="june2015">
 ### June
 
 * [My Share of the Task: A Memoir - General Stanley McChrystal _(audio)_](http://amzn.to/1GyTB0h)
 
+<a id="may2015">
 ### May
 
 * [The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - Ori Brafman, Rod A. Beckstrom](http://amzn.to/1KGgfey)
@@ -94,6 +103,7 @@
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't : Jim Collins _(audio)_](http://amzn.to/1HskN7a)
 * **[Design for Dasein - Understanding the Design of Experiences : Thomas Wendt](http://amzn.to/1d0q35n)**
 
+<a id="april2015">
 ### April
 
 * **[Tempo - Timing, Tactics and Strategy in Narrative-Driven Decision-Making : Venkatesh Rao](http://amzn.to/1z0tXo7)**
@@ -102,18 +112,21 @@
 
 ---- 
 
+<a id="march2015">
 ### March
 
 * [Selling Professional Services the Sandler Way:: Or, "Nobody Ever Told Me I'd Have to Sell!" - Evan Polin, Chuck Polin](http://amzn.to/1PwI5uC)
 * **[Principles : Ray Dalio _(pdf)_](http://www.bwater.com/uploads/filemanager/principles/bridgewater-associates-ray-dalio-principles.pdf)**
 * **[Thinking, Fast and Slow - Daniel Kahneman](http://amzn.to/1aSYhXv)**
 
+<a id="february2015">
 ### February
 
 * [The Score Takes Care of Itself: My Philosophy of Leadership - Bill Walsh](http://amzn.to/1JzoVA6)
 * [The Extraordinary Coach: How the Best Leaders Help Others Grow - John Zenger, Kathleen Stinnett](http://amzn.to/1aSYdHb)
 * [Leading Teams: Setting the Stage for Great Performances - J. Richard Hackman](http://amzn.to/1Dvir4q)
 
+<a id="january2015">
 ### January
 
 * [Who : Geoff Smart, Randy Street _(audio)_](http://amzn.to/1ElQigK)

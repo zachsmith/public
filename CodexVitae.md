@@ -6,7 +6,6 @@ The inspiration to write my own _Book of Life_ came from reading [Buster Benson'
 
 If this is your first time here, consider reading the [Glossary & Key Concepts](#glossary--key-concepts). If you want to create your own Codex Vitae using this format or use any of my content, please feel free to do so. If you see any mistakes or typos or have any comments or questions please get in touch. [codex@zaxmyth.me](mailto:codex@zaxmyth.me?subject=codex)
 
-
 [Changes and Revisions](http://zxmth.us/codexvitae)
 
 ---- 
@@ -41,7 +40,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 ---- 
 ## Keystones
 
-These help me improve my mind and my body everyday. I give myself permission to fail sometimes; it’s more important that I come back to the Keystone practice than strive for a perfect record. _Keep this list short: Consider replacing Keystones before simply adding new ones._.
+These help me improve my mind and my body everyday. I give myself permission to fail sometimes; it’s more important that I come back to the Keystone practice than strive for a perfect record. _Keep this list short: Consider replacing Keystones before adding new ones._.
 
 ### Read
 
@@ -57,7 +56,7 @@ Meditation is not something that comes easily to me nor is it something that I h
 
 ### Move
 
-Being mindful and intentional about movement is important to my physical and mental health even if that movement is simple. On the days I don’t move, I should be kind to myself and try again tomorrow.
+Being mindful and intentional about exercise is important to my physical and mental health. On the days I don’t challenge my body with exercise, I should be kind to myself and try again the next day.
 
 ---- 
 ## Questions
@@ -98,7 +97,7 @@ Being mindful and intentional about movement is important to my physical and men
 
 By choosing to adhere to a vegetarian diet I believe I am more likely to make healthier eating decisions which are also less harmful to the environment. I do not believe that vegetarianism is always more healthy or more environmentally friendly but I do believe that my _odds_ of making better choices increase by limiting myself to a plant based diet. Human bodies and environmental ecosystems are complex systems and it is impossible for any one person to know what is _“right”_ vs. what is _“wrong”_ in all ways. I don’t judge those who make different choices but this choice works well for me.
 
-I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer](http://zxmth.us/1PxXP1J) and became motivated to change her diet. To be supportive of her decision, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
+I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer](http://zxmth.us/1PxXP1J) and became motivated to change her diet. To be supportive of her decision and to help ease her transition, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
 
 ---- 
 ## Beliefs
@@ -177,7 +176,7 @@ I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [
 
 1. Is sometimes a more important reason for opportunities I receive than is skill or merit and...
 2. I must be honest with myself and reflect on how privilege impacts my life
-3. It is irresponsible not to use any privileges I have to help others
+3. It is my responsibility to use any privileges I have to help others
 
 ---- 
 ## Glossary & Key Concepts

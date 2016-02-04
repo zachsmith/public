@@ -11,13 +11,11 @@
 # 2016
 
 <a id="february2016">
----- 
 ### February
 
 * [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance _(audio)_](http://zxmth.us/1TENEty)
 
 <a id="january2016">
----- 
 ### January
 
 * [Deep Work: Rules for Focused Success in a Distracted World - Cal Newport](http://zxmth.us/1KNNrwU)
@@ -32,10 +30,11 @@
 * [The Investment Answer - Daniel C. Goldie, Gordon S. Murray](http://zxmth.us/1R9Qwiq)
 * [On the Shortness of Life - Seneca](http://zxmth.us/1VySl7m)
 
+---- 
+
 # 2015
 
 <a id="december2015">
----- 
 ### December
 
 * [The Little Book of Talent: 52 Tips for Improving Your Skills - Daniel Coyle](http://cw.gp/1Pw3YLL)

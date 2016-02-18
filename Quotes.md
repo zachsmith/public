@@ -37,3 +37,7 @@
 > way into a new way of acting." - **Millard Fuller, [Millard Fuller: A Home For Everyone](http://zxmth.us/1KaxK7Y)**
 
 ----
+
+> "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines."  - **Ralph Waldo Emerson, [Self-Reliance](http://zxmth.us/1os77lL)**
+
+----

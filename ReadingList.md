@@ -15,6 +15,8 @@
 
 * [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance _(audio)_](http://zxmth.us/1TENEty)
 * **[The Design of Business: Why Design Thinking is the Next Competitive Advantage - Roger L. Martin](http://zxmth.us/1QgRPMJ)**
+* [Work Rules!: Insights from Inside Google That Will Transform How You Live
+  and Lead - Laszlo Bock _(audio)_](http://zxmth.us/1os6jxa)
 
 <a id="january2016">
 ### January

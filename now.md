@@ -9,7 +9,7 @@
 - Organizing the [Farnam Street Readers](http://zxmth.us/1Pzqstq) group in Seattle
 - [Reading as much as I can](http://zxmth.us/1R0DeV4)
 - Trying to write more
-- Starting a new company and considering my next moves
+- Building [Catalyz](http://catalyz.io) with Ben
 - Sporting a beard and a handlebar mustache for the winter months
 
 ----

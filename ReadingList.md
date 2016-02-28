@@ -13,10 +13,10 @@
 <a id="february2016">
 ### February
 
-* [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance _(audio)_](http://zxmth.us/1TENEty)
+* **[Designing Delivery: Rethinking IT in the Digital Service Economy - Jeff Sussna](http://zxmth.us/1Sa7Sv4)**
+* [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead - Laszlo Bock _(audio)_](http://zxmth.us/1os6jxa)
 * **[The Design of Business: Why Design Thinking is the Next Competitive Advantage - Roger L. Martin](http://zxmth.us/1QgRPMJ)**
-* [Work Rules!: Insights from Inside Google That Will Transform How You Live
-  and Lead - Laszlo Bock _(audio)_](http://zxmth.us/1os6jxa)
+* [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance _(audio)_](http://zxmth.us/1TENEty)
 
 <a id="january2016">
 ### January

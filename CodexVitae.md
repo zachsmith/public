@@ -229,7 +229,7 @@ Questions meant to challenge my assumptions and beliefs. I was introduced to the
 
 ### Appreciative Inquiry
 
-Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, you leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger](http://zxmth.us/1PxYb8B)
+Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, I leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger](http://zxmth.us/1PxYb8B)
 
 ---- 
 ## Lists

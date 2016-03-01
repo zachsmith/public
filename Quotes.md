@@ -41,3 +41,10 @@
 > "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines."  - **Ralph Waldo Emerson, [Self-Reliance](http://zxmth.us/1os77lL)**
 
 ----
+
+> "You take a number of small steps which you believe are right, thinking maybe
+> tomorrow somebody will treat this as a dangerous provocation. And then you
+> wait. If there is no reaction, you take another step: courage is only an
+> accumulation of small steps." - **Gyorgy Konrad**
+
+----

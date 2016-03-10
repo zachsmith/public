@@ -10,7 +10,7 @@
 - [Reading as much as I can](http://zxmth.us/1R0DeV4)
 - Trying to write more
 - Building [Catalyz](http://catalyz.io) with Ben
-- Sporting a beard and a handlebar mustache for the winter months
+- Sporting a handlebar mustache for as long as I'm having fun with it
 
 ----
 

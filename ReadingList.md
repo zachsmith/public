@@ -10,6 +10,16 @@
 
 # 2016
 
+<a id="may2016">
+### May
+
+* [Accounting Made Simple - Mike Piper, CPA](http://zxmth.us/1YkS4WM)
+* [The Snowball: Warren Buffett and the Business of Life -  Alice Schroeder _(audio)_](http://zxmth.us/1YkRUhS)
+
+<a id="april2016">
+### April
+
+
 <a id="march2016">
 ### March
 

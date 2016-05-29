@@ -13,6 +13,7 @@
 <a id="may2016">
 ### May
 
+* [Charlie Munger: The Complete Investor - Tren Griffin](http://zxmth.us/24f0mkC)
 * [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns - John C. Bogle](http://zxmth.us/1XUOBQt)
 * [Accounting Made Simple - Mike Piper, CPA](http://zxmth.us/1YkS4WM)
 * [The Snowball: Warren Buffett and the Business of Life -  Alice Schroeder _(audio)_](http://zxmth.us/1YkRUhS)

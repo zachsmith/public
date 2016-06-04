@@ -10,6 +10,11 @@
 
 # 2016
 
+<a id="june2016">
+### June
+
+* [The Personal MBA: Master the Art of Business - Josh Kaufman](http://zxmth.us/1XYRGyS)
+
 <a id="may2016">
 ### May
 

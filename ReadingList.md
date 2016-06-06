@@ -27,7 +27,7 @@
 <a id="april2016">
 ### April
 
-[Letters from a Stoic - Lucius Annaeus Senec _(translation: Robin Campbell)_](http://zxmth.us/1TWjft1)
+* [Letters from a Stoic - Lucius Annaeus Senec _(translation: Robin Campbell)_](http://zxmth.us/1TWjft1)
 
 <a id="march2016">
 ### March

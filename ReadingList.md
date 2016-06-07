@@ -13,6 +13,7 @@
 <a id="june2016">
 ### June
 
+* [The Art of Thinking Clearly - Rolf Dobelli _(audio)_](http://zxmth.us/1U5fdeS)
 * [The Personal MBA: Master the Art of Business - Josh Kaufman](http://zxmth.us/1XYRGyS)
 
 <a id="may2016">

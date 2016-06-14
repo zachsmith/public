@@ -13,6 +13,7 @@
 <a id="june2016">
 ### June
 
+* [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy - Amy Edmonson](http://zxmth.us/1VWcCGy)
 * [The Art of Thinking Clearly - Rolf Dobelli _(audio)_](http://zxmth.us/1U5fdeS)
 * [The Personal MBA: Master the Art of Business - Josh Kaufman](http://zxmth.us/1XYRGyS)
 

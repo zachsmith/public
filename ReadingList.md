@@ -13,6 +13,7 @@
 <a id="june2016">
 ### June
 
+* **[Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian, Tom Griffiths _(audio)_**](http://zxmth.us/28W8v8O)
 * [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy - Amy Edmonson](http://zxmth.us/1VWcCGy)
 * [The Art of Thinking Clearly - Rolf Dobelli _(audio)_](http://zxmth.us/1U5fdeS)
 * [The Personal MBA: Master the Art of Business - Josh Kaufman](http://zxmth.us/1XYRGyS)

@@ -29,7 +29,7 @@
 <a id="april2016">
 ### April
 
-* [Letters from a Stoic - Lucius Annaeus Seneca _(translation: Robin Campbell)_](http://zxmth.us/1TWjft1)
+* **[Letters from a Stoic - Lucius Annaeus Seneca _(translation: Robin Campbell)_](http://zxmth.us/1TWjft1)**
 * [Simple Rules: How to Thrive in a Complex World - Donald Sull, Kathleen M. Eisenhardt](http://zxmth.us/1TWjSmh)
 
 ----

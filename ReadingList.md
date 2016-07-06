@@ -10,6 +10,11 @@
 
 # 2016
 
+<a id="july2016">
+### July
+
+* [The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom, and Enlightenment - Guy Spier](http://zxmth.us/29n3bg6)
+
 <a id="june2016">
 ### June
 

@@ -10,6 +10,10 @@
 
 # 2016
 
+<a id="august2016">
+### August
+* **[The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](http://zxmth.us/2azddiD)**
+
 <a id="july2016">
 ### July
 

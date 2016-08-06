@@ -12,6 +12,7 @@
 
 <a id="august2016">
 ### August
+* [The Little Book That Beats the Market - Joel Greenblatt](http://zxmth.us/2aXdJ8o)
 * **[The Dhandho Investor: The Low-Risk Value Method to High Returns - Mohnish Pabrai](http://zxmth.us/2azddiD)**
 
 <a id="july2016">

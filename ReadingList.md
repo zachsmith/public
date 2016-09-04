@@ -10,6 +10,10 @@
 
 # 2016
 
+<a id="september2016">
+### September
+* **[The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel - by Benjamin Graham  (Author), Jason Zweig  (Author), Warren E. Buffett (Collaborator)](http://zxmth.us/2czElyR)**
+
 <a id="august2016">
 ### August
 * [The Little Book That Beats the Market - Joel Greenblatt](http://zxmth.us/2aXdJ8o)

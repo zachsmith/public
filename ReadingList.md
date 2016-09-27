@@ -12,7 +12,7 @@
 
 <a id="september2016">
 ### September
-* **[Essentialism: The Disciplined Pursuit of Less - Greg McKeown](http://zxmth.us/2cxu9Rx)**
+* **[Essentialism: The Disciplined Pursuit of Less - Greg McKeown _(audio)_](http://zxmth.us/2cxu9Rx)**
 * **[Peak: Secrets from the New Science of Expertise - Anders Ericsson and Robert Pool _(audio)_](http://zxmth.us/2cUqLpH)**
 * **[The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel - Benjamin Graham  (Author), Jason Zweig  (Author), Warren E. Buffett (Collaborator)](http://zxmth.us/2czElyR)**
 

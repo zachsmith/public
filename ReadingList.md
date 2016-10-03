@@ -10,6 +10,12 @@
 
 # 2016
 
+<a id="october2016">
+## October
+* [F Wall Street: Joe Ponzio's No-Nonsense Approach to Value Investing For the Rest of Us - Joe Ponzio](http://zxmth.us/2cNA05z)
+
+----
+
 <a id="september2016">
 ### September
 * **[Essentialism: The Disciplined Pursuit of Less - Greg McKeown _(audio)_](http://zxmth.us/2cxu9Rx)**

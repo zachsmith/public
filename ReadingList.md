@@ -11,7 +11,7 @@
 # 2016
 
 <a id="october2016">
-## October
+### October
 * [F Wall Street: Joe Ponzio's No-Nonsense Approach to Value Investing For the Rest of Us - Joe Ponzio](http://zxmth.us/2cNA05z)
 
 ----

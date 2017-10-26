@@ -1,16 +1,14 @@
 
 # What is Zachary doing now?
 
-- Living in [Seattle, WA](http://zxmth.us/1PzqBgr) with Alex & Tuesday
-- Spending time working on my own projects at [The Could Room](http://zxmth.us/1Pzqi5c) and [Folio: The Seattle Athenaeum Library](http://zxmth.us/1nx2vcU).
-- On the board of [AIGA Seattle](http://zxmth.us/1PzqoKi)
-- On the Portfolio Grant Committee for [Social Venture Partners](http://zxmth.us/1PzqmC8)
+- Living in [Seattle, WA](http://zxmth.us/1PzqBgr) with Alex. _(Tuesday moved to NYC to go to college at [Barnard](https://barnard.edu/)!)_
+- Spending time working on my own projects at [The Pioneer Collective](http://www.thepioneercollective.com) 
 - Co-hosting the [Seattle Design Thinking & Innovation Collective](http://zxmth.us/1PzqtNZ)
 - Organizing the [Farnam Street Readers](http://zxmth.us/1Pzqstq) group in Seattle
-- [Reading as much as I can](http://zxmth.us/1R0DeV4)
-- Trying to write more
-- Building [Catalyz](http://catalyz.io) with Ben
-- Sporting a handlebar mustache for as long as I'm having fun with it
+- Running [Catalyz](http://catalyz.io) with Ben
+- Building [Syrus Partners](http://syruspartners.com) with [Shane](https://twitter.com/@farnamstreet) and [Jeff](https://twitter.com/@mungerisms)
+- Growing a beard for the winter months - right now I'm prety scruffy!
+- Watching Detroit Red Wings hockey and Seattle Seahawks football
 
 ----
 

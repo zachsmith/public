@@ -28,7 +28,7 @@
 
 ----
 
-> "Education is what people do to you and learning is what you do to yourself." - 
+> "Education is what people do to you and learning is what you do to yourself." -
 > **Joi Ito, [Want to innovate? Become a "now-ist" TED Talk](http://zxmth.us/1JA6Mq4)**
 
 ----
@@ -46,5 +46,21 @@
 > tomorrow somebody will treat this as a dangerous provocation. And then you
 > wait. If there is no reaction, you take another step: courage is only an
 > accumulation of small steps." - **Gyorgy Konrad**
+
+----
+
+> "Computers Are Useless. They Can Only Give You Answers" - **Pablo Picasso**
+
+----
+
+> "A cultivated person's first duty is to be always prepared to rewrite the encyclopedia" - **Umberto Eco**
+
+----
+
+> "If you hit a wrong note, it's the next note that you play that determines if it's good or bad." - **Miles Davis**
+
+----
+
+> "I have a profound disdain for answers.” - **Muriel Cooper**
 
 ----

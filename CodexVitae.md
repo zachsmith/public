@@ -8,7 +8,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 
 [Changes and Revisions](http://zxmth.us/codexvitae)
 
----- 
+----
 ## Actions
 
 ### Daily
@@ -21,7 +21,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 
 - Review my completed _MITs_ for the week
 - Review my notes and capture any necessary actions
-- Review new entries in my _Common Book_ 
+- Review new entries in my _Common Book_
 - Review my _Noble Questions_
 
 ### Monthly
@@ -37,7 +37,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 - Write a year-end report
 - Review prior year-end reports
 
----- 
+----
 ## Keystones
 
 These help me improve my mind and my body everyday. I give myself permission to fail sometimes; it’s more important that I come back to the Keystone practice than strive for a perfect record. _Keep this list short: Consider replacing Keystones before adding new ones._.
@@ -58,7 +58,7 @@ Meditation is not something that comes easily to me nor is it something that I h
 
 Being mindful and intentional about exercise is important to my physical and mental health. On the days I don’t challenge my body with exercise, I should be kind to myself and try again the next day.
 
----- 
+----
 ## Questions
 
 ### Appreciative Inquiry
@@ -83,14 +83,14 @@ Being mindful and intentional about exercise is important to my physical and men
 - **What am I choosing not to do as a result of what I'm choosing to do?**
 - **What ideas or beliefs should I abandon?**
 
----- 
+----
 ## Ambitious Attributes
 
 - Compassionate
 - Inquisitive
 - Patient
 
----- 
+----
 ## Convenient Constraints
 
 ### Vegetarianism
@@ -99,7 +99,7 @@ By choosing to adhere to a vegetarian diet I believe I am more likely to make he
 
 I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer](http://zxmth.us/1PxXP1J) and became motivated to change her diet. To be supportive of her decision and to help ease her transition, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
 
----- 
+----
 ## Beliefs
 
 ### On Biases
@@ -178,7 +178,7 @@ I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [
 2. I must be honest with myself and reflect on how privilege impacts my life
 3. It is my responsibility to use any privileges I have to help others
 
----- 
+----
 ## Glossary & Key Concepts
 
 ### Codex Vitae
@@ -213,7 +213,7 @@ A future that exists just ahead of us at the edge of present reality where the i
 
 ### Hypothesis of Generosity
 
-The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown](http://zxmth.us/1PxY2BU). Another variation of this type of thinking is _Most Respectful Interpretation_ or _MRI_. With _MRI_ you strive to interpret the words or actions of another person with respect. Often we fearful or suspicious of the intentions of others but when we invert this fear or suspicion we give ourselves the opportunity to consider a more positive interpretation.
+The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown](http://zxmth.us/1PxY2BU). Another variation of this type of thinking is _[Most Respectful Interpretation](http://zxmth.us/2yZjNsN)_ or _MRI_. With _MRI_ you strive to interpret the words or actions of another person with respect. Often we fearful or suspicious of the intentions of others but when we invert this fear or suspicion we give ourselves the opportunity to consider a more positive interpretation.
 
 ### Mental Models
 
@@ -221,7 +221,7 @@ Structures and patterns that we construct in our minds to make sense of the worl
 
 ### MITs
 
-_**M**ost **I**mportant **T**ask**s**_. These are the things I feel are the most important to complete. They may be task that is due that day but they can also be things like simply going for a walk in the park or even a _Keystone_ that I want to pay special attention to. I try no more than three _MITs_ per day. 
+_**M**ost **I**mportant **T**ask**s**_. These are the things I feel are the most important to complete. They may be task that is due that day but they can also be things like simply going for a walk in the park or even a _Keystone_ that I want to pay special attention to. I try no more than three _MITs_ per day.
 
 ### Disconfirming Questions
 
@@ -231,14 +231,14 @@ Questions meant to challenge my assumptions and beliefs. I was introduced to the
 
 Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, I leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger](http://zxmth.us/1PxYb8B)
 
----- 
+----
 ## Lists
 
 - [Reading List](http://zxmth.us/ZaxReadingList) : a list of books and papers I've read
 - [My Instapaper Profile](https://www.instapaper.com/p/zaxmyth) : things I’ve ‘liked’ on Instapaper
 - [Quotes](http://zxmth.us/1UoENKg) : quotes worth remembering
 
----- 
+----
 ## References
 
 ### Important Books
@@ -263,6 +263,6 @@ Appreciative Inquiry starts by focusing on what is good and what is working and 
 ### Useful Sources of Information & Ideas
 
 - [Farnam Street Blog](http://zxmth.us/farnamstreetblog) - [Shane Parrish](https://www.farnamstreetblog.com/about/)
-- [Brain Pickings](http://zxmth.us/1R0KbFG) - [Maria Popova](https://www.brainpickings.org/about/) 
+- [Brain Pickings](http://zxmth.us/1R0KbFG) - [Maria Popova](https://www.brainpickings.org/about/)
 - [Cal Newport](http://zxmth.us/1R0Kf8c)
 - [Ribbon Farm](http://zxmth.us/1R0KgJz) - [Venkatesh Rao](http://www.ribbonfarm.com/about/)

@@ -213,7 +213,7 @@ A future that exists just ahead of us at the edge of present reality where the i
 
 ### Hypothesis of Generosity
 
-The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown](http://zxmth.us/1PxY2BU). Another variation of this type of thinking is _[Most Respectful Interpretation](http://zxmth.us/2yZjNsN)_ or _MRI_. With _MRI_ you strive to interpret the words or actions of another person with respect. Often we fearful or suspicious of the intentions of others but when we invert this fear or suspicion we give ourselves the opportunity to consider a more positive interpretation.
+The most generous assumption you can make about another person’s intentions. Looking for the best in people and believing that they are doing the best that they can do at that point in time. I was introduced to the concept in [Rising Strong by Brené Brown](http://zxmth.us/1PxY2BU). Another variation of this type of thinking is _[Most Respectful Interpretation](http://zxmth.us/2yZjNsN)_ or _MRI_. With _MRI_ you strive to interpret the words or actions of another person with respect. Often we are fearful or suspicious of the intentions of others but when we invert this fear or suspicion we give ourselves the opportunity to consider a more positive interpretation.
 
 ### Mental Models
 

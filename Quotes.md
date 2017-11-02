@@ -64,3 +64,11 @@
 > "I have a profound disdain for answers.” - **Muriel Cooper**
 
 ----
+
+> "Ignorance more often begets confidence than knowledge." - **Charles Darwin**
+
+----
+
+> "A habit cannot be tossed out the window; it must be coaxed down the stairs one step at a time." - **Mark Twain**
+
+----

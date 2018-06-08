@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The inspiration to write my own _Book of Life_ came from reading [Buster Benson's Codex Vitae](http://zxmth.us/1NWuWI1). I was also inspired by [Ray Dalio's Principles](http://zxmth.us/1NWv22g), [Laurence Endersen's Pebbles of Perception](http://zxmth.us/1PxYBvs), and [Peter Bevelin's Seeking Wisdom](http://zxmth.us/1NWv766). This is a living document, one that I reference and update regularly. It is a tool for me to be intentional about how I aspire to live.
+The inspiration to write my own _Book of Life_ came from reading various files and posts by [Buster Benson](http://zxmth.us/1PzpQnv). I was also inspired by [Ray Dalio's (original) Principles document](https://zxmth.us/2JH0vhe), [Laurence Endersen's Pebbles of Perception](http://zxmth.us/1PxYBvs), and [Peter Bevelin's Seeking Wisdom](http://zxmth.us/1NWv766). This is a living document, one that I reference and update regularly. It is a tool for me to be intentional about how I aspire to live.
 
 If this is your first time here, consider reading the [Glossary & Key Concepts](#glossary--key-concepts). If you want to create your own Codex Vitae using this format or use any of my content, please feel free to do so. If you see any mistakes or typos or have any comments or questions please get in touch. [codex@zaxmyth.me](mailto:codex@zaxmyth.me?subject=codex)
 

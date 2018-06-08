@@ -275,3 +275,4 @@ OKR stands for **O**bjectives" and **K**ey **R**esults. It it a lightweight goal
 - [Brain Pickings](http://zxmth.us/1R0KbFG) - [Maria Popova](https://www.brainpickings.org/about/)
 - [Cal Newport](http://zxmth.us/1R0Kf8c)
 - [Ribbon Farm](http://zxmth.us/1R0KgJz) - [Venkatesh Rao](http://www.ribbonfarm.com/about/)
+- [Wait But Why](https://waitbutwhy.com/)

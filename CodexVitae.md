@@ -23,6 +23,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 - Review my notes and capture any necessary actions
 - Review new entries in my _Common Book_
 - Review my _Noble Questions_
+- Review & grade personal OKRs
 
 ### Monthly
 
@@ -230,6 +231,10 @@ Questions meant to challenge my assumptions and beliefs. I was introduced to the
 ### Appreciative Inquiry
 
 Appreciative Inquiry starts by focusing on what is good and what is working and then imagining ways that those things could be even better. By focusing on what is good and building from there, I leverage my strengths and make time and space to appreciate myself. I was introduced to the concept in [A More Beautiful Question - The Power to Spark Breakthrough Ideas by Warren Berger](http://zxmth.us/1PxYb8B)
+
+### OKRs
+
+OKR stands for **O**bjectives" and **K**ey **R**esults. It it a lightweight goal setting framework created by former Intel CEO Andy Grove and made popular by Google who was introduced to the concept by John Doerr. I was originally introduced to OKRs while working at [Substantial](https://substantial.com) where we tried (and failed) to use them internally for company wide goal setting. I'm experimenting with using OKRs for personal goals on 3-month seasonal cycles (Summer, Fall, Winter, Spring.) [Christina Wodtke](https://zxmth.us/2M9mNXr) has written a lot about how to use OKRs for personal goals. The [Wikipedia article](https://zxmth.us/2LAk8ou) on OKRs provides some background and references.
 
 ----
 ## Lists

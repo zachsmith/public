@@ -244,7 +244,6 @@ OKR stands for **O**bjectives" and **K**ey **R**esults. It it a lightweight goal
 ## Lists
 
 - [Reading List](http://zxmth.us/ZaxReadingList) : a list of books and papers I've read
-- [My Instapaper Profile](https://www.instapaper.com/p/zaxmyth) : things I’ve ‘liked’ on Instapaper
 - [Quotes](http://zxmth.us/1UoENKg) : quotes worth remembering
 
 ----
@@ -263,6 +262,7 @@ OKR stands for **O**bjectives" and **K**ey **R**esults. It it a lightweight goal
 - [The Catcher in the Rye - J.D. Salinger](http://zxmth.us/1PxYSPa)
 - [How to Read a Book: The Classic Guide to Intelligent Reading - Mortimer Adler](http://zxmth.us/1PxYOPq)
 - [The Laws of Simplicity - John Maeda](http://zxmth.us/1PxYPmg)
+- [Curious: The Desire to Know and Why Your Future Depends On It - Ian Leslie](https://zxmth.us/2xWiJqC)
 
 ### Important Articles & Papers
 

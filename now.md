@@ -9,6 +9,7 @@
 - Running [Catalyz](http://catalyz.io) with Ben
 - Building [Syrus Partners](http://syruspartners.com) with [Shane](https://twitter.com/@farnamstreet)
 - Watching a lot of Seattle Mariners baseball
+- Programming more and playing with open source projects
 - Thinking about what I want to do next with my life
 
 ----

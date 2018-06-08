@@ -96,9 +96,13 @@ Being mindful and intentional about exercise is important to my physical and men
 
 ### Vegetarianism
 
-By choosing to adhere to a vegetarian diet I believe I am more likely to make healthier eating decisions which are also less harmful to the environment. I do not believe that vegetarianism is always more healthy or more environmentally friendly but I do believe that my _odds_ of making better choices increase by limiting myself to a plant based diet. Human bodies and environmental ecosystems are complex systems and it is impossible for any one person to know what is _“right”_ vs. what is _“wrong”_ in all ways. I don’t judge those who make different choices but this choice works well for me.
+By choosing to adhere to a vegetarian diet I believe I am more likely to make healthier eating decisions which are also less harmful to the environment. I do not believe that vegetarianism is always more healthy or more environmentally friendly but I do believe that my _odds_ of making better choices increase by limiting myself to a plant based diet. Human bodies and environmental ecosystems are complex systems and it is impossible for any one person to know what is _“right”_ vs. what is _“wrong”_ in all ways. I try not to judge those who make different choices but the choice of vegetarianism works well for me.
 
 I adopted a vegetarian diet (most recently) in 2011. At that time my wife read [Eating Animals by Jonathan Safran Foer](http://zxmth.us/1PxXP1J) and became motivated to change her diet. To be supportive of her decision and to help ease her transition, I chose to adopt a similar diet. When I ask myself why I _remain_ a vegetarian, it is because I find the positive side-effects of a diet that takes little willpower for me to maintain to be convenient. _(I should note that I have never read ‘Eating Animals’.)_
+
+### Teetotalism
+
+In June of 2017 I decided to try a personal experiment to see what would happen if I stopped consuming alcohol. Would I miss it? Would it be hard for some reason? Would it require a lot of willpower? Would my habits or routines change? How would I feel physically, mentally, socially, and emotionally? I had stopped drinking for periods of time on numerous occasions throughout my life, but this time I decided to evaluate my default posiion. Rather than trying to articulate a compelling reason for why I _don't_ drink alcohol (as is the social norm in my country), I'd instead invert my position and require myself to articulate a compelling reason for why I _should_ drink alcohol. I belive that not drinking increases the odds that I'll make positive choices for my health and safetly and I have not missed drinking alocohol on too many occasions. I feel better, have not experienced any social reprecusions that I'm bothered by, sleep better, spend less money, spend less time in bars, and am more productive and alert in the evenings.
 
 ----
 ## Beliefs

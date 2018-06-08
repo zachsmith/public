@@ -188,9 +188,9 @@ In June of 2017 I decided to try a personal experiment to see what would happen 
 
 ### Codex Vitae
 
-_(copied verbatim from [Buster Benson’s 2014 Codex Vitae](http://zxmth.us/1PxXSKZ))_
+_(copied verbatim from [Buster Benson’s definition of Codex Vitae](https://zxmth.us/2LAtUqG))_
 
-> This is an idea coined by Robin Sloan in his book Mr Penumbra's 24-Hour Bookstore. The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains onto our credit cards and that would more directly represent our full body of knowledge from life.
+> This is an idea coined by Robin Sloan in his book Mr Penumbra's 24-Hour Bookstore. The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am.
 
 ### Keystones
 

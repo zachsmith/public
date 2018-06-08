@@ -198,7 +198,7 @@ Keystones are the habits, routines, and actions that have a cascading effect on 
 
 ### Convenient Constraints
 
-A form of _Personal_ [Choice Architecture](http://zxmth.us/1PxXXhL), Convenient Constraints are restrictions that create a new default state which increases the likelihood that you’ll make better decisions. Ideally these constraints do not require a high amount of willpower and should not be difficult to adhere to. I was introduced to the idea of Choice Architecture in [The Willpower Instinct: How self-control works, why it matters, and What you can do to get more of it by Kelly McGonigal, PH.D.](http://zxmth.us/1PxXY58).
+A form of _Personal_ [Choice Architecture](http://zxmth.us/1PxXXhL), Convenient Constraints are restrictions that create a new default state which increases the likelihood that you’ll make better decisions. Ideally these constraints do not require a high amount of willpower and should not be difficult to adhere to. I was introduced to the idea of Choice Architecture in [The Willpower Instinct: How self-control works, why it matters, and What you can do to get more of it by Kelly McGonigal, PH.D.](http://zxmth.us/1PxXY58) and learned more about in [Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler & Cass Sunstein](https://zxmth.us/2JtTGMT).
 
 ### Noble Questions
 

@@ -15,7 +15,7 @@ If this is your first time here, consider reading the [Glossary & Key Concepts](
 
 - Review my _Keystones_ and make time in my day for them
 - Identify my _MITs_ and make time in my day for them
-- Review my _Appreciative Inquiry Questions_
+- Review my _Appreciative Inquiries__
 
 ### Weekly
 
@@ -62,7 +62,7 @@ Being mindful and intentional about exercise is important to my physical and men
 ----
 ## Questions
 
-### Appreciative Inquiry
+### Appreciative Inquiries
 
 - **What am I grateful for in my life?**
 - **Who can I thank today?**
